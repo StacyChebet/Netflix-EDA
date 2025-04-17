@@ -1,4 +1,4 @@
-![image](/images/netflix%20img.png)
+![image](./images/netflix%20img.png)
 
 # 🍿Netflix & Analyze: EDA on Netflix Data for 2021 
 
