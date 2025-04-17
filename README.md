@@ -1,3 +1,5 @@
+![image](/images/netflix%20img.png)
+
 # 🍿Netflix & Analyze: EDA on Netflix Data for 2021 
 
 Welcome to my data playground! This project dives into Netflix's 2021 catalog to explore what makes the platform tick - what kinds of shows are streaming, where they're from, and who's behind the scenes. Think of it as binge-watching with charts. 
